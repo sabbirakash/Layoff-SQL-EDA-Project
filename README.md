@@ -8,6 +8,12 @@ A comprehensive SQL analytics project exploring a relational World Layoff databa
 
 ---
 
+<p align="center">
+  <img src="https://github.com/sabbirakash/Layoff-SQL-EDA-Project/blob/main/Layoff%20SQL%20Project%20Banner.jpg" alt="World Job Layoff EDA SQL Project Banner">
+</p>
+
+---
+
 ## 📌 Table of Contents
 - [Project Overview](#-project-overview)
 - [Objectives](#-objectives)
