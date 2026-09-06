@@ -1,5 +1,28 @@
 # 💼 Layoff Trends SQL Project – Data Cleaning & EDA
 
+![SQL](https://img.shields.io/badge/Language-SQL-003B5C?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Analytics-Business_Insights-232F3E?style=for-the-badge)
+
+A comprehensive SQL analytics project exploring a relational World Layoff database. This repository contains queries ranging from basic metrics to advanced analytical calculations using CTEs and window functions to derive business-critical insights regarding revenue, ordering trends, and product performance.
+
+---
+
+## 📌 Table of Contents
+- [Project Overview](#-project-overview)
+- [Objectives](#-objectives)
+- [Tech Stack](#-tech-stack)
+- [Database Schema](#-database-schema)
+- [Business Questions Solved](#-business-questions-solved)
+- [Key Business Insights](#-key-business-insights)
+- [Project Structure](#-project-structure)
+- [Learning Outcomes](#-learning-outcomes)
+- [Future Enhancements](#-future-enhancements)
+- [Author & Contact](#-author--contact)
+
+---
+
+
 This project explores global layoff data using **pure SQL**. It involves:
 - Cleaning and transforming raw data
 - Performing exploratory data analysis (EDA)
